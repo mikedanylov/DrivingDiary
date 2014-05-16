@@ -1,0 +1,10 @@
+some place 13:40 10000 some other place 14:45 10120
+Vaasa 13:21 10000 Turku 17:22 10334
+Turku 08:10 10334 Pori 13:57 10476
+Pori 15:00 10476 Tampere 16:28 10587
+Kuopio 09:50 10882 Lieksa 12:30 11067
+Lieksa 13:30 11067 Joensuu 14:50 11162
+Joensuu 15:15 11162 Mikkeli 18:20 11370
+Rovaniemen maalaiskunta 11:23 10412 Espoo 12:45 10799
+far far away 13:13 23123 somewere closer 13:14 39124
+qwerty keybord 05:15 99999 lcd display 05:15 99999
